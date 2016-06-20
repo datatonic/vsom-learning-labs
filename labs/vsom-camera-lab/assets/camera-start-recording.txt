@@ -1,0 +1,16 @@
+{
+  "status": {
+    "errorType": "SUCCESS"
+  },
+  "data": {
+    "enabled": true,
+    "cameraRef": {
+      "refObjectType": "device_vs_camera_ip",
+      "refUid": "bfbd1b0e-ca42-4998-b1ef-1ad98036449f",
+      "refVsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+      "refName": "7070-02"
+    },
+    "inProgress": true,
+    "defaultStopTime": 1466108685615
+  }
+}

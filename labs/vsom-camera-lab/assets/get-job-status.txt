@@ -1,0 +1,29 @@
+{
+  "status": {
+    "errorType": "SUCCESS"
+  },
+  "data": {
+    "objectType": "vs_job",
+    "startTime": 1466102153438,
+    "jobType": "createDeviceTemplate",
+    "numberOfSubJobs": 1,
+    "name": "createDeviceTemplate",
+    "numberOfCompletedSubJobs": 0,
+    "numberOfFailedSubJobs": 0,
+    "numberOfPendingSubJobs": 1,
+    "vsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+    "actionTargetRef": {
+      "refObjectType": "vs_deviceTemplate",
+      "refVsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+      "refName": "ex template 15"
+    },
+    "numberOfRunningSubJobs": 0,
+    "action": "Create device template",
+    "numberOfExpectedSubJobs": 1,
+    "endTime": 0,
+    "numberOfStoppedSubJobs": 0,
+    "uid": "a379e6ca-1502-4861-845e-24f8a1ddcf1a",
+    "username": "admin",
+    "description": ""
+  }
+}

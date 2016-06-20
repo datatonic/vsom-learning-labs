@@ -1,0 +1,27 @@
+{
+    "labId": "vsom-camera-lab-2",
+    "title": "VSOM and Spark",
+    "slug": "Learn how to use the Spark API to deliver snapshots from a VSOM Camera",
+    "time": "10",
+    "tags": [{
+        "title": "VSOM"
+    }, {
+        "title": "Python"
+    }, {
+        "title": "Spark"
+    }, {
+        "title": "REST"
+    }],
+    "files": [{
+        "title": "VSOM and Spark.md"
+    }],
+    "related": [{
+        "labId": "vsom-camera-lab",
+        "title": "Video Surveillance Operations Manager (VSOM)"
+    }],
+    "authors": [{
+        "name": "Patrick Riel",
+        "email": "priel@cisco.com"
+    }],
+    "active": false
+}

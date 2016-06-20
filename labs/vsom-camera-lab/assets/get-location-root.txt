@@ -1,0 +1,30 @@
+{
+  "status": {
+    "errorType": "SUCCESS"
+  },
+  "data": {
+    "childGroups": [
+      {
+        "localName": "System",
+        "isRootGroup": true,
+        "vsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+        "name": "System",
+        "description": "",
+        "isSystemCreated": true,
+        "uid": "40000000-0000-0000-0000-000000000005",
+        "zoom": 0,
+        "objectType": "location",
+        "hasChildGroups": false,
+        "locationType": "DEFAULT"
+      }
+    ],
+    "localName": "My Locations",
+    "vsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+    "name": "My Locations",
+    "description": "",
+    "uid": "undefined",
+    "zoom": 0,
+    "objectType": "location",
+    "hasChildGroups": true
+  }
+}

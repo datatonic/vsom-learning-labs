@@ -1,0 +1,27 @@
+{
+    "labId": "vsom-camera-lab",
+    "title": "Video Surveillance Operations Manager (VSOM)",
+    "slug": "Learning to programmatically control IP Cameras through RESTful API calls",
+    "time": "30",
+    "tags": [{
+        "title": "Python"
+    }, {
+        "title": "VSOM"
+    }, {
+        "title": "REST"
+    }],
+    "files": [{
+        "title": "TrainLab.md"
+    }, {
+        "title": "VSOM and Spark.md"
+    }],
+    "related": [{
+        "labId": "vsom-camera-lab-2",
+        "title": "VSOM and Spark"
+    }],
+    "authors": [{
+        "name": "Patrick Riel",
+        "email": "priel@cisco.com"
+    }],
+    "active": false
+}

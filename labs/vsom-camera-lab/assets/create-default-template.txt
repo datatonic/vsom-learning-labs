@@ -1,0 +1,11 @@
+{
+  "data": {
+    "refName": "createDeviceTemplate",
+    "refUid": "da28597a-d9bd-4529-a239-9e7760d228e0",
+    "refObjectType": "vs_job",
+    "refVsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff"
+  },
+  "status": {
+    "errorType": "SUCCESS"
+  }
+}

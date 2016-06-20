@@ -1,0 +1,24 @@
+{
+  "status": {
+    "errorType": "SUCCESS"
+  },
+  "data": {
+    "vsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+    "endTime": 0,
+    "objectType": "vs_job",
+    "numberOfStoppedSubJobs": 0,
+    "numberOfRunningSubJobs": 0,
+    "numberOfPendingSubJobs": 1,
+    "numberOfSubJobs": 1,
+    "description": "",
+    "numberOfCompletedSubJobs": 0,
+    "startTime": 1466108130408,
+    "action": "Create full size motion window on 1 camera(s)",
+    "jobType": "createFullMotionWindows",
+    "username": "admin",
+    "uid": "7538ef40-941e-41bf-a747-b5cdf592f68d",
+    "name": "createFullMotionWindows",
+    "numberOfExpectedSubJobs": 1,
+    "numberOfFailedSubJobs": 0
+  }
+}

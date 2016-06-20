@@ -1,0 +1,30 @@
+{
+  "data": {
+    "actionTargetRef": {
+      "refObjectType": "vs_deviceTemplate",
+      "refName": "Patrick's Template",
+      "refUid": "918bdb12-63ec-4da4-bd8e-897d61fe8d09",
+      "refVsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff"
+    },
+    "endTime": 0,
+    "startTime": 1466107841977,
+    "numberOfRunningSubJobs": 1,
+    "username": "admin",
+    "numberOfExpectedSubJobs": 1,
+    "numberOfFailedSubJobs": 0,
+    "numberOfStoppedSubJobs": 0,
+    "action": "Associate 1 camera(s) to deviceTemplate",
+    "numberOfPendingSubJobs": 0,
+    "objectType": "vs_job",
+    "name": "associateCamerasToDeviceTemplate",
+    "jobType": "associateCamerasToDeviceTemplate",
+    "description": "",
+    "vsomUid": "dbc3b4ac-491a-4f35-bb9e-7598c13fbfff",
+    "numberOfSubJobs": 1,
+    "numberOfCompletedSubJobs": 0,
+    "uid": "049dc735-4204-4385-8f43-10d2c1923226"
+  },
+  "status": {
+    "errorType": "SUCCESS"
+  }
+}
