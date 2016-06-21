@@ -11,9 +11,11 @@
         "title": "Spark"
     }, {
         "title": "REST"
+    }, {
+        "title": "Intermediate"
     }],
     "files": [{
-        "title": "VSOM and Spark.md"
+        "title": "1.md"
     }],
     "related": [{
         "labId": "vsom-camera-lab",
@@ -23,5 +25,5 @@
         "name": "Patrick Riel",
         "email": "priel@cisco.com"
     }],
-    "active": false
+    "active": true
 }
