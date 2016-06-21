@@ -12,11 +12,11 @@
     }, {
         "title": "Intermediate"
     }],
-    "files": [{
-        "title": "1.md",
-        "title": "2.md",
-        "title": "3.md"
-    }],
+    "files": [
+        {"title": "1.md"},
+        {"title": "2.md"},
+        {"title": "3.md"}
+    ],
     "related": [{
         "labId": "vsom-camera-lab-2",
         "title": "VSOM and Spark"
